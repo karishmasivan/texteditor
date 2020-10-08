@@ -1,0 +1,27 @@
+table, th, td
+ {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-family:'Verdana';
+
+}
+h1
+{
+  
+	font-size:.8em
+
+}
+
+ #t1 tr:nth-child(odd) { 
+            background-color:white;
+            color:blue; 
+        } 
+         #t1 tr:nth-child(even) { 
+            background-color:blue;
+            color:white; 
+        } 
+#t2 th
+{
+background-color:blue;
+color:white;
+}
