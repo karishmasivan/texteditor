@@ -1,0 +1,28 @@
+table, th, td
+ {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+a:link {
+  color:darkgrey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:darkgrey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkgrey;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color:black ;
+  background-color: transparent;
+  text-decoration: underline;
+}
