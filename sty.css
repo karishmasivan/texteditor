@@ -1,0 +1,32 @@
+figcaption {
+  font:Arial;
+  font-size:.75em;
+  color:darkblue; 
+}
+a:link {
+  color:#7D3C98 ;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:#17202A;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F08080;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color:#17A589  ;
+  background-color: transparent;
+  text-decoration: underline;
+}
+p.link{
+	text-align: center;
+	font-size: 20px
+}
